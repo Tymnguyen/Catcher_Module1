@@ -1,0 +1,13 @@
+# Bỏ qua thư mục Temp và các file tạm thời
+Temp/
+*.tmp
+*.swp
+*.log
+
+# Bỏ qua các thư mục build và bin
+/build
+/bin
+
+# Bỏ qua các file từ hệ điều hành
+Thumbs.db
+.DS_Store
