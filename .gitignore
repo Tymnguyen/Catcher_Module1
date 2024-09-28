@@ -4,6 +4,8 @@ Library/
 Obj/
 Build/
 Logs/
+.history/
+.vscode/
 *.tmp
 *.swp
 *.log
