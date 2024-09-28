@@ -1,5 +1,9 @@
 # Bỏ qua thư mục Temp và các file tạm thời
 Temp/
+Library/
+Obj/
+Build/
+Logs/
 *.tmp
 *.swp
 *.log
